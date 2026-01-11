@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkzzz_atlas_world_doc_page=globalThis.webpackChunkzzz_atlas_world_doc_page||[]).push([[9294],{1789(a){a.exports=JSON.parse('{"metadata":{"permalink":"/Atlas-World-doc-page/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

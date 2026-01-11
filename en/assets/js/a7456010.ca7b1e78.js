@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkzzz_atlas_world_doc_page=globalThis.webpackChunkzzz_atlas_world_doc_page||[]).push([[1235],{8552(a){a.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
