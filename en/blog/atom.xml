@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Bryan0324.github.io/Atlas-World-doc-page/en/blog</id>
+    <id>https://ryanx0621.github.io/Atlas-World/en/blog</id>
     <title>ATLAS WORLD Blog</title>
     <updated>2019-05-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Bryan0324.github.io/Atlas-World-doc-page/en/blog"/>
+    <link rel="alternate" href="https://ryanx0621.github.io/Atlas-World/en/blog"/>
     <subtitle>ATLAS WORLD Blog</subtitle>
-    <icon>https://Bryan0324.github.io/Atlas-World-doc-page/en/img/favicon.ico</icon>
+    <icon>https://ryanx0621.github.io/Atlas-World/en/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://Bryan0324.github.io/Atlas-World-doc-page/en/blog/first-blog-post</id>
-        <link href="https://Bryan0324.github.io/Atlas-World-doc-page/en/blog/first-blog-post"/>
+        <id>https://ryanx0621.github.io/Atlas-World/en/blog/first-blog-post</id>
+        <link href="https://ryanx0621.github.io/Atlas-World/en/blog/first-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet...]]></summary>
         <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet...</p>

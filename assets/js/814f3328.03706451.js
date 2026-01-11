@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkzzz_atlas_world_doc_page=globalThis.webpackChunkzzz_atlas_world_doc_page||[]).push([[7472],{5513(s){s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/Atlas-World-doc-page/blog/first-blog-post","unlisted":false,"date":"2019-05-28T00:00:00.000Z"}]}')}}]);

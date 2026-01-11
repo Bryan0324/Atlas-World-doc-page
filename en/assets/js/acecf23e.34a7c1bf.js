@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkzzz_atlas_world_doc_page=globalThis.webpackChunkzzz_atlas_world_doc_page||[]).push([[1903],{1912(a){a.exports=JSON.parse('{"blogBasePath":"/Atlas-World/en/blog","blogTitle":"Blog","authorsListPath":"/Atlas-World/en/blog/authors"}')}}]);
