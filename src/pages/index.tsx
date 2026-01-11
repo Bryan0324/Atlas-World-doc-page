@@ -20,7 +20,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/atlas-world">
+            to="/docs/category/atlas-world">
             ATLAS WORLD 文明憲法 📜
           </Link>
         </div>
